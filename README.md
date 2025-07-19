@@ -85,4 +85,3 @@ uvicorn main:app --reload
 
 ---
 
-Let me know if you'd like to auto-generate this file or need a `requirements.txt` template too.
