@@ -1,5 +1,3 @@
-Here’s a clean and easy-to-follow **README-style instruction guide** you can share with your users or teammates. You can place it in your `README.md` file or as a separate document (e.g., `setup_instructions.txt`):
-
 ---
 
 ## 💻 Setup Instructions for MuetBot
