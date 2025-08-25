@@ -4,9 +4,12 @@ pydantic
 python-dotenv
 pymongo
 openai
+
+# LangChain ecosystem
 langchain
-langchain-community
 langchain-core
 langchain-openai
-langchain-groq
+langchain-community
+
+# Vector database
 faiss-cpu
